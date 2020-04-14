@@ -12,9 +12,13 @@ class CardComponent extends React.Component {
     // eslint-disable-next-line no-useless-constructor
     constructor(props) {
         super(props);
+        this.state={
+            show: false
+        }
     }
 
     render() {
+        var show = this.state.show;
         console.log(this.props.d)
         let n = this.props.visitNo;
         let foodData = this.props.data;
@@ -33,7 +37,11 @@ class CardComponent extends React.Component {
                             <Card.Img variant="top" src={foodData[0].imgSrc} />
                             <Card.Body>
                                 <Card.Title>{foodData[0].name}</Card.Title>
-                                <Button variant="primary" size="md">
+                                <Button variant="primary" size="md"
+                                    disabled={this.state.show}
+                                    onClick={() => { this.setState({ show: true }) }}
+                                    
+                                >
                                     Redeem
                                 </Button>
                             </Card.Body>
@@ -45,7 +53,10 @@ class CardComponent extends React.Component {
                             <Card.Img variant="top" src={foodData[1].imgSrc} />
                             <Card.Body>
                                 <Card.Title>{foodData[1].name}</Card.Title>
-                                <Button variant="primary" size="md">
+                                <Button variant="primary" size="md"
+                                    disabled={this.state.show}
+                                    onClick={() => { this.setState({ show: true }) }}
+                                >
                                     Redeem
                                 </Button>
                             </Card.Body>
@@ -57,7 +68,10 @@ class CardComponent extends React.Component {
                             <Card.Img variant="top" src={foodData[2].imgSrc} />
                             <Card.Body>
                                 <Card.Title>{foodData[2].name}</Card.Title>
-                                <Button variant="primary" size="md">
+                                <Button variant="primary" size="md"
+                                    disabled={this.state.show}
+                                    onClick={() => { this.setState({ show: true }) }}
+                                >
                                     Redeem
                                 </Button>
                             </Card.Body>
