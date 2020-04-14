@@ -1,0 +1,77 @@
+[
+    {
+        "name":"Butter Chicken",
+        "imgSrc": "https://recipes.timesofindia.com/thumb/53205522.cms?imgsize=302803&width=800&height=800",
+        "onVisit": 1
+    },
+    {
+        "name":"Chicken Rezala",
+        "imgSrc": "https://www.whiskaffair.com/wp-content/uploads/2014/10/Chicken-Rezala-1.jpg",
+        "onVisit": 1
+    },
+    {
+        "name":"Paneer Butter Masala",
+        "imgSrc": "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2013/04/paneer-butter-masala-paneer-makhani-500x500.jpg",
+        "onVisit": 1
+    },
+    {
+        "name":"Chicken Biryani",
+        "imgSrc": "https://thumbs.dreamstime.com/b/chicken-biryani-traditional-indian-rice-dish-served-clay-pot-top-view-image-one-meal-108805407.jpg",
+        "onVisit": 2
+    },
+    {
+        "name":"Palak Paneer",
+        "imgSrc": "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2013/05/palak-paneer-easy.jpg",
+        "onVisit": 2
+    },
+    {
+        "name":"Chicken Masala",
+        "imgSrc": "https://recipes.timesofindia.com/thumb/54673639.cms?imgsize=497063&width=800&height=800",
+        "onVisit": 2
+    },
+    {
+        "name":"Chicken 65",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chicken_65_%28Dish%29.jpg",
+        "onVisit": 3
+    },
+    {
+        "name":"Mutton Biryani",
+        "imgSrc": "https://www.swatifood.com/wp-content/uploads/2018/01/Authentic-Hyderabadi-mutton-biryani-recipe.jpg",
+        "onVisit": 3
+    },
+    {
+        "name":"Chicken Curry",
+        "imgSrc": "https://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18175922/fc58cu028-01-main.jpg",
+        "onVisit": 3
+    },
+    {
+        "name":"Mutton Rogan Josh",
+        "imgSrc": "https://2.bp.blogspot.com/--qSXjvPqwlk/WNIdQmvaN6I/AAAAAAAADAg/h0j9hytktVY2lFI_AuhBR1fE7UkfK3t0gCLcB/s1600/Mutton%2BRogan%2BJosh%2BRecipe.JPG",
+        "onVisit": 4
+    },
+    {
+        "name":"Chilly Chicken",
+        "imgSrc": "https://myfoodstory.com/wp-content/uploads/2016/11/Easy-Chinese-Chilli-Chicken-Dry-1-1.jpg",
+        "onVisit": 4
+    },
+    {
+        "name":"Chicken Tandoori",
+        "imgSrc": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/chicken-tandori-1526595014.jpg",
+        "onVisit": 4
+    },
+    {
+        "name":"Chicken Pakora",
+        "imgSrc": "https://beckykeepshouse.com/wp-content/uploads/Chicken-Pakora_I6A4969.jpg",
+        "onVisit": 5
+    },
+    {
+        "name":"Kung Pao Chicken",
+        "imgSrc": "https://www.dinneratthezoo.com/wp-content/uploads/2019/07/kung-pao-chicken-4.jpg.webp",
+        "onVisit": 5
+    },
+    {
+        "name":"Murgh Musallam",
+        "imgSrc": "https://www.indidiet.com/wp-content/uploads/2017/11/IMG_20171107_1254382-768x448.jpg",
+        "onVisit": 5
+    }
+]

@@ -1,0 +1,10 @@
+.card-img-top{
+    min-height: 60% !important;
+    max-height: 60% !important;
+}
+#card-current{
+    margin: 10px;
+}
+#card-next{
+    margin: 10px;
+}

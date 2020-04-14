@@ -1,0 +1,16 @@
+.add-visit-container{
+    background: rgb(248, 245, 245);
+    padding-top: 5%;
+}
+.date-picker-custom{
+    margin: 5%;
+    border: 1px solid grey;
+}
+
+.add-visit-button{
+    margin: 5%;
+}
+
+@media only screen and (min-width: 100px){
+    
+}
